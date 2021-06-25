@@ -46,6 +46,6 @@ if __name__ == '__main__':
             numl = minusSide(numl)
             numr = plusSide(numr)
 
-    z[numB - 1][2] = 1
+    z[numB - 1][midP] = 1
 
     print(z)
